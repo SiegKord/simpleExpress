@@ -14,4 +14,3 @@ app.get('/', function(req, res) {
 
 app.listen(8080, ip);
 
-module.exports = app;
